@@ -1,0 +1,16 @@
+{
+    "name": "referrer-whitelist",
+    "version": "1.0.0",
+    "description": "Referrer whitelist for Brave",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/brave/referrer-whitelist.git"
+    },
+    "author": "Mark Pilgrim <mpilgrim@brave.com>",
+    "license": "MPL-2.0",
+    "gypfile": true,
+    "bugs": {
+        "url": "https://github.com/brave/referrer-whitelist/issues"
+    },
+    "homepage": "https://github.com/brave/referrer-whitelist#readme"
+}
