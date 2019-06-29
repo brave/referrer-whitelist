@@ -24,10 +24,10 @@
                 "https://imgur.com/*"
             ]
         },
-	{
-	    "https://www.sfoutsidelands.com/*": [
-		"https://*.dostff.co/*"
-	    ]
-	}
+        {
+            "https://www.sfoutsidelands.com/*": [
+                "https://*.dostff.co/*"
+            ]
+        }
     ]
 }
