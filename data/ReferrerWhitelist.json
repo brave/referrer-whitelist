@@ -23,6 +23,11 @@
                 "https://cdn.embedly.com/*",
                 "https://imgur.com/*"
             ]
+        },
+        {
+            "https://codepen.io/*": [
+                "https://cdpn.io/*"
+            ]
         }
     ]
 }
