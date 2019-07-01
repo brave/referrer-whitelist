@@ -28,6 +28,11 @@
             "https://www.icloud.com/*": [
                 "https://*.apple.com/*"
             ]
+        },
+        {
+            "https://codepen.io/*": [
+                "https://cdpn.io/*"
+            ]
         }
     ]
 }
