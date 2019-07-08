@@ -4,7 +4,9 @@
             "<all_urls>": [
                 "https://use.typekit.net/*",
                 "https://api.geetest.com/*",
-                "https://cloud.typography.com/*"
+                "https://cloud.typography.com/*",
+                "https://*.vimeocdn.com/*",
+                "https://player.vimeo.com/*"
             ]
         },
         {
