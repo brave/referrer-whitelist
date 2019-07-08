@@ -33,6 +33,11 @@
             "https://www.sfoutsidelands.com/*": [
                 "https://*.dostff.co/*"
             ]
+        },
+        {
+            "https://codepen.io/*": [
+                "https://cdpn.io/*"
+            ]
         }
     ]
 }
