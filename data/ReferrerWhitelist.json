@@ -40,6 +40,11 @@
             "https://codepen.io/*": [
                 "https://cdpn.io/*"
             ]
-        }
+        },
+        {
+            "https://www.nin.com/*": [
+		"https://*.netdna-ssl.com/*"
+            ]
+	}
     ]
 }
