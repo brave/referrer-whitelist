@@ -6,7 +6,8 @@
                 "https://api.geetest.com/*",
                 "https://cloud.typography.com/*",
                 "https://*.vimeocdn.com/*",
-                "https://player.vimeo.com/*"
+                "https://player.vimeo.com/*",
+                "https://*.gigya.com/*"
             ]
         },
         {
