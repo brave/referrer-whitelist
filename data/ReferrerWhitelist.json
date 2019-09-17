@@ -45,6 +45,11 @@
             "https://www.nin.com/*": [
 		"https://*.netdna-ssl.com/*"
             ]
-	}
+	},
+        {
+            "https://*.microsoft.com/*": [
+		"https://*.msftauth.net/*"
+            ]
+        }
     ]
 }
