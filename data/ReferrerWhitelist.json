@@ -7,6 +7,7 @@
                 "https://cloud.typography.com/*",
                 "https://*.vimeocdn.com/*",
                 "https://player.vimeo.com/*",
+                "https://*.gigya.com/*",
                 "https://*.atlassian.net/*"
             ]
         },
@@ -41,6 +42,11 @@
             "https://codepen.io/*": [
                 "https://cdpn.io/*"
             ]
-        }
+        },
+        {
+            "https://www.nin.com/*": [
+		"https://*.netdna-ssl.com/*"
+            ]
+	}
     ]
 }
