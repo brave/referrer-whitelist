@@ -11,6 +11,18 @@
             ]
         },
         {
+            "https://www.bing.com/*": [
+                "https://www.bing.com/*",
+                "https://login.live.com/*"
+            ]
+        },
+        {
+            "https://login.live.com/*": [
+                "https://www.bing.com/*",
+                "https://login.live.com/*"
+            ]
+        },
+        {
             "https://www.facebook.com/": [
                 "https://*.fbcdn.net/*"
             ]
