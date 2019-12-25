@@ -7,7 +7,8 @@
                 "https://cloud.typography.com/*",
                 "https://*.vimeocdn.com/*",
                 "https://player.vimeo.com/*",
-                "https://*.gigya.com/*"
+                "https://*.gigya.com/*",
+                "https://*.spreedly.com/*"
             ]
         },
         {
