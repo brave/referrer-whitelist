@@ -74,6 +74,11 @@
             "https://*.atlassian.net/*": [
                 "https://atlassian.net/*"
             ]
+        },
+        {
+            "https://*.anibis.ch/*": [
+                "https://*.google.com/*"
+            ]
         }
     ]
 }
