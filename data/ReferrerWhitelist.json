@@ -34,6 +34,11 @@
             ]
         },
         {
+            "https://developers.google.com/*": [
+                "https://*.googleapis.com/*"
+            ]
+        },
+        {
             "https://www.reddit.com/*": [
                 "https://www.redditmedia.com/*",
                 "https://cdn.embedly.com/*",
