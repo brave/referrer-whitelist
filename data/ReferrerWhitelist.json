@@ -8,7 +8,7 @@
                 "https://*.vimeocdn.com/*",
                 "https://player.vimeo.com/*",
                 "https://*.gigya.com/*",
-                "https://*.spreedly.com/*"
+                "https://*.spreedly.com/*",
                 "https://*.locationiq.org/*"
             ]
         },
