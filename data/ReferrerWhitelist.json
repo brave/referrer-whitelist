@@ -9,7 +9,8 @@
                 "https://player.vimeo.com/*",
                 "https://*.gigya.com/*",
                 "https://*.spreedly.com/*",
-                "https://*.locationiq.org/*"
+                "https://*.locationiq.org/*",
+                "https://*.ccavenue.com/*"
             ]
         },
         {
