@@ -26,6 +26,11 @@
             ]
         },
         {
+            "https://services.paysf.co/*": [
+                "https://*.prod.cityba.se/*"
+            ]
+        },
+        {
             "https://www.facebook.com/": [
                 "https://*.fbcdn.net/*"
             ]
