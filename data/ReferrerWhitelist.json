@@ -10,7 +10,8 @@
                 "https://*.gigya.com/*",
                 "https://*.spreedly.com/*",
                 "https://*.locationiq.org/*",
-                "https://*.ccavenue.com/*"
+                "https://*.ccavenue.com/*",
+                "https://*.googleapis.com/*"
             ]
         },
         {
@@ -38,16 +39,6 @@
         {
             "https://www.facebook.com/": [
                 "https://*.fbcdn.net/*"
-            ]
-        },
-        {
-            "https://accounts.google.com/": [
-                "https://content.googleapis.com/*"
-            ]
-        },
-        {
-            "https://developers.google.com/*": [
-                "https://*.googleapis.com/*"
             ]
         },
         {
