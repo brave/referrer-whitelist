@@ -11,7 +11,8 @@
                 "https://*.spreedly.com/*",
                 "https://*.locationiq.org/*",
                 "https://*.ccavenue.com/*",
-                "https://*.googleapis.com/*"
+                "https://*.googleapis.com/*",
+                "https://*.postcodeanywhere.co.uk/*"
             ]
         },
         {
