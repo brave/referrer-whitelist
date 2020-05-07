@@ -88,6 +88,11 @@
             "https://*.anibis.ch/*": [
                 "https://*.google.com/*"
             ]
+        },
+        {
+            "https://source.chromium.org/*": [
+               "https://*.clients6.google.com/*"
+            ]
         }
     ]
 }
