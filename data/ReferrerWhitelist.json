@@ -13,7 +13,8 @@
                 "https://*.ccavenue.com/*",
                 "https://apis.google.com/*",
                 "https://*.googleapis.com/*",
-                "https://*.postcodeanywhere.co.uk/*"
+                "https://*.postcodeanywhere.co.uk/*",
+                "https://*.paymentjs.firstdata.com/*"
             ]
         },
         {
