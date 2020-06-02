@@ -93,6 +93,11 @@
             ]
         },
         {
+            "https://www.obdach.wien/*": [
+                "https://*.google.com/*"
+            ]
+        },
+        {
             "https://source.chromium.org/*": [
                "https://*.google.com/*"
             ]
