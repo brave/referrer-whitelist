@@ -15,7 +15,8 @@
                 "https://*.googleapis.com/*",
                 "https://*.postcodeanywhere.co.uk/*",
                 "https://*.paymentjs.firstdata.com/*",
-                "https://pay.google.com/*"
+                "https://pay.google.com/*",
+                "https://*.mapbox.com/*"
             ]
         },
         {
