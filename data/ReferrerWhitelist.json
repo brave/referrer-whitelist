@@ -93,7 +93,7 @@
             ]
         },
         {
-            "https://*.playstation.com/*":[
+            "https://*.playstation.com/*": [
                 "https://*.sony.com/*",
                 "https://*.sonyentertainmentnetwork.com/*"
             ]
