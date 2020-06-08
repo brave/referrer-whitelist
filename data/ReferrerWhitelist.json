@@ -93,6 +93,12 @@
             ]
         },
         {
+            "https://*.playstation.com/*":[
+                "https://*.sony.com/*",
+                "https://*.sonyentertainmentnetwork.com/*"
+            ]
+        },
+        {
             "https://source.chromium.org/*": [
                "https://*.google.com/*"
             ]
