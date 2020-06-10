@@ -94,6 +94,12 @@
             ]
         },
         {
+            "https://*.playstation.com/*": [
+                "https://*.sony.com/*",
+                "https://*.sonyentertainmentnetwork.com/*"
+            ]
+        },
+        {
             "https://www.obdach.wien/*": [
                 "https://*.google.com/*"
             ]
