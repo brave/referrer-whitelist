@@ -96,6 +96,11 @@
             "https://source.chromium.org/*": [
                "https://*.google.com/*"
             ]
+        },
+        {
+           "https://twist.moe/*": [
+               "https://*.bunny.sh/*"
+            ]
         }
     ]
 }
