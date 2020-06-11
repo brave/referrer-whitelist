@@ -32,6 +32,11 @@
             ]
         },
         {
+            "https://*.poliigon.com/*": [
+                "https://*.algolianet.com/*"
+            ]
+        },
+        {
             "https://services.paysf.co/*": [
                 "https://*.prod.cityba.se/*"
             ]
