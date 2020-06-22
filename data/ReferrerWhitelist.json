@@ -28,6 +28,11 @@
             ]
         },
         {
+            "https://sdbullion.com/*": [
+                "https://*.nfusionsolutions.biz/*"
+            ]
+        },
+        {
             "https://login.live.com/*": [
                 "https://www.bing.com/*",
                 "https://login.live.com/*"
