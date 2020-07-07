@@ -19,6 +19,7 @@
                 "https://pay.google.com/*",
                 "https://*.mapbox.com/*",
                 "https://*.hsforms.com/*"
+                "https://*.mojeid.cz/*"
             ]
         },
         {
