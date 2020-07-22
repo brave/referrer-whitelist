@@ -34,6 +34,11 @@
             ]
         },
         {
+            "https://cloudflare.tv/*": [
+                "https://*.cloudflarestream.com/*"
+            ]
+        },
+        {
             "https://*.poliigon.com/*": [
                 "https://*.algolianet.com/*"
             ]
