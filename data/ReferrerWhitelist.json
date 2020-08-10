@@ -122,6 +122,16 @@
                 "https://*.google.com/*"
             ]
         },
+	{
+            "https://mudafy.com.ar/*": [
+                "https://*.google.com/*"
+            ]
+        },
+	{
+            "https://mudafy.com.mx/*": [
+                "https://*.google.com/*"
+            ]
+        },
         {
             "https://source.chromium.org/*": [
                "https://*.google.com/*"
