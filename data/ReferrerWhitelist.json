@@ -95,7 +95,7 @@
             "https://www.nin.com/*": [
                 "https://*.netdna-ssl.com/*"
             ]
-	},
+        },
         {
             "https://id.atlassian.com/*": [
                 "https://atlassian.net/*"
@@ -123,13 +123,23 @@
             ]
         },
         {
-            "https://source.chromium.org/*": [
-               "https://*.google.com/*"
+            "https://mudafy.com.ar/*": [
+                "https://*.google.com/*"
             ]
         },
         {
-           "https://twist.moe/*": [
-               "https://*.bunny.sh/*"
+            "https://mudafy.com.mx/*": [
+                "https://*.google.com/*"
+            ]
+        },
+        {
+            "https://source.chromium.org/*": [
+                "https://*.google.com/*"
+            ]
+        },
+        {
+            "https://twist.moe/*": [
+                "https://*.bunny.sh/*"
             ]
         }
     ]
